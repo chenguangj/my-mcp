@@ -4,7 +4,7 @@
  */
 {
 "$schema": "node_modules/wrangler/config-schema.json",
-"name": "mcp-weather",
+"name": "2026-7-15-mcp-test",
 "main": "src/index.ts",
 "compatibility_date": "2026-05-25",
 "compatibility_flags": ["nodejs_compat"],
